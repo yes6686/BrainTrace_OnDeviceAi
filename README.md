@@ -1,6 +1,6 @@
 ### 🎥 시연영상
 
-[![Brain-Trace 소개 영상](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Brain-Trace 소개 영상](https://img.youtube.com/vi/d/0.jpg)](https://www.youtube.com/watch?v=)
 
 
 
