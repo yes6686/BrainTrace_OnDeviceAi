@@ -64,21 +64,7 @@
 
 ---
 
-## 📦 설치 및 실행
 
-```bash
-# 1. 클론 및 백엔드 실행
-git clone https://github.com/your-org/brain-trace.git
-cd brain-trace/backend
-python -m venv venv
-source venv/bin/activate  # Windows는 venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn main:app --reload
-
-# 2. 프론트엔드 실행
-cd ../frontend
-npm install
-npm start
 
 
 
