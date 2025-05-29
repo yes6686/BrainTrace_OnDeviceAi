@@ -2,7 +2,7 @@
 
 [![Brain-Trace 소개 영상](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Brain-Trace의 기능과 사용법을 영상으로 확인해보세요!
+
 
 ![image](https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1)
 
