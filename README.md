@@ -2,6 +2,10 @@
 
 [![Brain-Trace 소개 영상](https://img.youtube.com/vi/Q0w4S_sMEaQ/0.jpg)](https://www.youtube.com/watch?v=Q0w4S_sMEaQ)
 
+### 🎥 Demo Video
+
+[![Brain-Trace Demo Video](https://img.youtube.com/vi/r6AdiX7SZkw/0.jpg)](https://www.youtube.com/watch?v=r6AdiX7SZkw)
+
 ![image](https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1)
 
 # 🧠 Brain-Trace
