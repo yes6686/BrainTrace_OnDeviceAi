@@ -9,7 +9,6 @@ AI가 학습 자료를 자동 분석하고
 </div>
 
 ---
-
 ## 🧠 프로젝트 개요
 
 > **“자료를 넣으면 지식이 된다. 질문하면 문맥이 답한다.”**
@@ -141,6 +140,17 @@ AI가 학습 자료를 자동 분석하고
 | [![Brain-Trace 소개](https://img.youtube.com/vi/Q0w4S_sMEaQ/0.jpg)](https://www.youtube.com/watch?v=Q0w4S_sMEaQ) | [![Brain-Trace Demo](https://img.youtube.com/vi/r6AdiX7SZkw/0.jpg)](https://www.youtube.com/watch?v=r6AdiX7SZkw) |
 
 ---
+
+<details>
+<summary>📊 시스템 구조 패널 보기 (클릭해서 펼치기)</summary>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1" alt="시스템 구조 패널" width="80%"/>
+</p>
+
+</details>
 
 ## 🔗 참고 자료
 
