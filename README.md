@@ -86,7 +86,7 @@ AI가 학습 자료를 자동 분석하고
 | 항목 | 기술 |
 |------|------|
 | 프론트엔드 | React, Cytoscape.js, Vite |
-| 백엔드 | Spring Boot, FastAPI |
+| 백엔드 | FastAPI |
 | 데이터베이스 | Neo4j (Embedded), SQLite |
 | 음성 인식 | OpenAI Whisper |
 | AI 모델 | llama, KoE5 |
