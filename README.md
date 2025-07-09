@@ -95,7 +95,7 @@ AI가 학습 자료를 자동 분석하고
 
 ---
 
-## 📑 API 문서 미리보기 (Swagger UI)
+## 📑 API 문서 (Swagger UI)
 
 <details>
 <summary>📂 Swagger Docs 보기 (클릭해서 펼치기)</summary>
@@ -112,7 +112,7 @@ FastAPI 기반 REST API는 아래와 같은 Swagger UI 형태로 구성되어 �
 
 </details>
 
-
+---
 
 ## 🧪 성능 비교 (Graph-RAG vs 일반 RAG)
 
