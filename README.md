@@ -137,7 +137,6 @@ AI가 학습 자료를 자동 분석하고
 
 ## 🔗 참고 자료
 
-- [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - [React 공식 문서](https://reactjs.org/docs/getting-started.html)
 - [Neo4j 공식 문서](https://neo4j.com/docs/)
 - [OpenAI Whisper](https://github.com/openai/whisper)
